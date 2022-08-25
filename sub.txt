@@ -1,0 +1,74 @@
+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
+
+passwords = Yssas1996
+
+cd changes directory
+
+cd ~ changes to home directory
+
+cd .. moves up one directory
+
+ls lists files in folder
+
+pwd shows current directory
+
+mkdir <FOLDERNAME> creates new directory
+
+touch <FILENAME> creates a file
+
+explorer . opens a specific file (Windows only)
+
+Open Terminal or Git Bash and do the following, using only the command line:
+
+Navigate to your desktop or directory: cd Desktop
+
+Create a new directory named test: mkdir test
+
+NOTE
+When naming your directories and files, we recommend using underscores in place of spaces. So, for example, instead of naming a directory terminal prework, name it terminal_prework.
+
+Create a new text file named sample: touch sample.txt
+
+Navigate into the test directory: cd test
+
+Check the contents of the directory (it should be empty): ls
+
+Navigate back to your desktop: cd ..
+
+Move the sample.txt file into the test directory: mv sample.txt test
+
+Make sure the previous action was successful. Use cd test, press Enter, and then use ls.
+
+Time for some independent learning! Using Google, find a way to rename the sample.txt file to example.txt.
+
+What if I want to practice these commands? Then you are exactly the kind of student we are looking for: hungry for knowledge and eager to get your hands dirty!
+
+This video (Links to an external site.) reviews the following steps.
+
+Open Terminal or Git Bash and do the following, using only the command line:
+
+Navigate to your desktop or directory: cd Desktop
+
+Create a new directory named test: mkdir test
+
+NOTE
+When naming your directories and files, we recommend using underscores in place of spaces. So, for example, instead of naming a directory terminal prework, name it terminal_prework.
+
+Create a new text file named sample: touch sample.txt
+
+Navigate into the test directory: cd test
+
+Check the contents of the directory (it should be empty): ls
+
+Navigate back to your desktop: cd ..
+
+Move the sample.txt file into the test directory: mv sample.txt test
+
+Make sure the previous action was successful. Use cd test, press Enter, and then use ls.
+
+This example renames example.txt to file.txt:
+
+$ mv example.txt file.txt
+Because they both use the same command, you can combine rename with a move. For instance, when moving example.txt to Documents, you could also rename it:
+
+$ mv example.txt ~/Documents/file.txt
