@@ -158,15 +158,14 @@ Image over election_analysis.txt print below.
 
 
 Deliverable 3: Analysis of the Election Audit
-1) Overview of Election Audit:
-Explain the purpose of this election audit analysis:
+Overview of Election Audit:
+
 The purpose of this project is to find out which county is the largest based off of votes. In module 3 we learned how to read csv files in python and begin to run the data with our coding skills. The data file has 4 columns, we had to search through the one that had all of the candidates and figure out how many votes each candidate recieved. Once we figure out the total votes and percentage of the total that they had we wrote the results to a text file with a winner. In the module 3 challenge we are doing something similar.This time we will search through the counties column to figure out the total votes and percentage of each county to find which county is the largest.
 
-Calculate the total number of votes cast.
-Get a complete list of candidates who received votes.
-Calculatae the total number of votes each candidate received.
-Calculate the percentage of votes each candidate won.
-Determine the winner of the election based on popular vote.
+#Election audit results #By County -After the code is finished we are able to find that there is a total of 369,711 votes between 3 counties. -Jefferson county had 10.5% of the vote with 38,855 total votes -Denver had 82.8% of the vote with 306,055 total ballots submitted -Arapahoe had 6.7% of the total vote with 24,801 ballots submitted -Denver had the most amount of votes in the county by commiting 82.8% of the ballots #By Candidate -Charles Casper Stockham(85,213/23%) -Diana DeGette(272,892/73.8%) -Raymon Anthony Doane(11,606/3.1%) -Diana DeGette won the election recieving 272,892 total votes which was 73.8% of the total votes submitted
+
+Election Audit Summary Seeing how our script is able to effectively find votes counts, percentage of votes won by each county and candidate it is safe to assume that we can even figure out what the percentages of each county voted for each candidate. We can do something like this by adding another if statement to under line 76 that will give us a breakdown showing what counties voted for who. This can be used for any future election because it gives us a great breakdown of counties or even states if the data was different.
+
 After giving you an overview of the election audit tasks, we wants to go over the steps required in detail. Showing you a technique commonly used by programmers to write steps of their code, which is called pseudocode. Pseudocode will make the audit easier to present to nontechnical colleagues and stakeholders.
 
 In this project, our final Python script will need to be able to deliver the following information when the script is run:
@@ -176,8 +175,7 @@ A complete list of candidates who received votes
 Total number of votes each candidate received
 Percentage of votes each candidate won
 The winner of the election based on popular vote
-2) Election-Audit Results:
-Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
+
 
 How many votes were cast in this congressional election?
 Total Votes Cast in this congressional election was 369,711
