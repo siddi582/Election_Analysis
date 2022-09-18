@@ -137,32 +137,25 @@ Each county and its total vote count are saved in the election_results.txt file.
 Each county and its percentage of the total votes are saved in the election_results.txt file.
 The county with the largest number of voters is saved in the election_results.txt` file.
 Results with detail analysis:
-Using your knowledge of writing data to a text file, write the winning candidate results and the county election results to the election_results.txt file.
+Using your knowledge of writing data to a text file, write the winning candidate results and the county election results to the election_analysis.txt file.
 
-1. Each county and its total vote count are saved in the election_results.txt file.
+1. Each county and its total vote count are saved in the election_analysis.txt file.
 
 Image over election_analysis.txt print below.
 ![text](https://user-images.githubusercontent.com/111712209/190893079-c9c0f2fa-3dc8-46e1-ba69-f72e1f06cd5a.png)
 
-Code and Image
 
-name-of-you-image
+2. Each county and its percentage of the total votes are saved in the election_analysis.txt file.
 
-2. Each county and its percentage of the total votes are saved in the election_results.txt file.
 
-Image over election_results.txt print below.
+![wholefile](https://user-images.githubusercontent.com/111712209/190894153-a8987188-93c5-40c0-a4de-377f2a244faf.png)
 
-Code and Image
+3. The county with the largest number of voters is saved in the election_analysis.txt file.
 
-name-of-you-image
 
-3. The county with the largest number of voters is saved in the election_results.tx file.
+![wholefile](https://user-images.githubusercontent.com/111712209/190894197-d0d26f47-98f9-43d4-b26d-6cc95cf96aaf.png)
 
-Image over election_results.txt print below.
 
-Code and Image
-
-name-of-you-image
 
 Deliverable 3: Analysis of the Election Audit
 1) Overview of Election Audit:
@@ -204,7 +197,7 @@ Provide a breakdown of the number of votes and the percentage of the total votes
 Candidate Percentage of Votes:
 
 Charles Casper Stockham candidate has 23.0% total percentage with a total votes of 85,213
-Diana DeGette candidate has the 73.8 total percentage with a total votes of 272,892
+Diana DeGette candidate has the 73.8% total percentage with a total votes of 272,892
 Raymon Anthony Doane candidate has 3.1% total percentage with a total votes of 11,606
 Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 Election Results:
