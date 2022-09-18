@@ -30,9 +30,6 @@ Code and Image
 
 Image with Python Code below.
 
-Code and Image
-![snapshot](https://user-images.githubusercontent.com/111712209/190893200-fda41b8a-c88f-461a-9143-daad1fdf52d2.png)
-
 
 3. The winner of the election, winning vote count, and winning percentage of votes are printed to the terminal.
 
