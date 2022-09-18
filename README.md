@@ -63,7 +63,7 @@ Image with Python Code below.
 
 Code and Image
 
-name-of-you-image
+
 
 2. Each county and its percentage of the total votes are printed to the terminal.
 
@@ -85,9 +85,9 @@ Deliverable 2: Election Candidate Results Saved to a Text File
 Candidate Results Deliverable Requirements:
 You will earn a perfect score for Deliverable 2 by completing all requirements below:
 
-Total Votes in the election are saved in the election_results.txt file.
+Total Votes in the election are saved in the election_analysis.txt file.
 Each candidate’s total votes and percentage of votes are saved in the election_analysis.txt file.
-The winner of the election, winning vote count, and winning percentage of votes are saved in the election_results.txt file.
+The winner of the election, winning vote count, and winning percentage of votes are saved in the election_analysis.txt file.
 Results with detail analysis:
 Using your knowledge of writing data to a text file, write the winning candidate results and the county election results to the analysis.txt file.
 
@@ -130,9 +130,9 @@ Election County Results Saved to a Text File
 County Results Deliverable Requirements:
 You will earn a perfect score for Deliverable 2 by completing all requirements below:
 
-Each county and its total vote count are saved in the election_results.txt file.
-Each county and its percentage of the total votes are saved in the election_results.txt file.
-The county with the largest number of voters is saved in the election_results.txt` file.
+Each county and its total vote count are saved in the election_analysis.txt file.
+Each county and its percentage of the total votes are saved in the election_analysis.txt file.
+The county with the largest number of voters is saved in the election_analysis.txt` file.
 Results with detail analysis:
 Using your knowledge of writing data to a text file, write the winning candidate results and the county election results to the election_analysis.txt file.
 
