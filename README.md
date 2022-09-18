@@ -30,6 +30,7 @@ Code and Image
 
 Image with Python Code below.
 
+![VoteCount](https://user-images.githubusercontent.com/111712209/190894504-4288c2ca-09d8-4f61-8261-3fd15e398fe4.png)
 
 3. The winner of the election, winning vote count, and winning percentage of votes are printed to the terminal.
 
@@ -63,7 +64,9 @@ Image with Python Code below.
 
 Code and Image
 
+![terminal](https://user-images.githubusercontent.com/111712209/190894519-20221cbe-9496-40ae-b102-f00eec195b00.png)
 
+![TerminalCount](https://user-images.githubusercontent.com/111712209/190894537-fe315a99-6346-47e3-bea8-df236836871d.png)
 
 2. Each county and its percentage of the total votes are printed to the terminal.
 
