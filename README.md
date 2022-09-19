@@ -160,13 +160,17 @@ Image over election_analysis.txt print below.
 Deliverable 3: Analysis of the Election Audit
 Overview of Election Audit:
 
-The purpose of this project is to find out which county is the largest based off of votes. In module 3 we learned how to read csv files in python and begin to run the data with our coding skills. The data file has 4 columns, we had to search through the one that had all of the candidates and figure out how many votes each candidate recieved. Once we figure out the total votes and percentage of the total that they had we wrote the results to a text file with a winner. In the module 3 challenge we are doing something similar.This time we will search through the counties column to figure out the total votes and percentage of each county to find which county is the largest.
+The purpose of this project is determine the largest county based off of the votes collected from each county. Module 3 taught us how to read csv files in python and run our data using code. The data file has 4 columns. In order to figure out how many votes each candidate has received, a search was done through all of the candidates on the file. Once the total votes and percentage of the total was found, the results were put onto a text file with the winner's name. This time we will search through the counties column to figure out the total votes and percentage of each county to find which county is the largest.
 
-#Election audit results #By County -After the code is finished we are able to find that there is a total of 369,711 votes between 3 counties. -Jefferson county had 10.5% of the vote with 38,855 total votes -Denver had 82.8% of the vote with 306,055 total ballots submitted -Arapahoe had 6.7% of the total vote with 24,801 ballots submitted -Denver had the most amount of votes in the county by commiting 82.8% of the ballots #By Candidate -Charles Casper Stockham(85,213/23%) -Diana DeGette(272,892/73.8%) -Raymon Anthony Doane(11,606/3.1%) -Diana DeGette won the election recieving 272,892 total votes which was 73.8% of the total votes submitted
+#Election audit results #By County- The program after being run shows there are a total of 369,711 votes between 3 counties. Jefferson county took 10.5% of the vote with 38855 total votes. Denver commited 82.8% of the vote with 306,055 total ballots sumbitted. Arapahoe consists of 6.7% of the total vote with 24,801 ballots submitted. Denver reached the most amount of votes in the county by a leading 82.8% of the ballots #By Candidate. The results are as follows:
+- Diana DeGette(272,892/73.8%)
+- Charles Casper Stockham(85, 213/23%)
+- Raymon Anthony Doane(11,606/3.1%)
+Diana DeGette is the winner of the election with 272,892 total votes. That is 73.8% of the total votes submitted. 
 
-Election Audit Summary Seeing how our script is able to effectively find votes counts, percentage of votes won by each county and candidate it is safe to assume that we can even figure out what the percentages of each county voted for each candidate. We can do something like this by adding another if statement to under line 76 that will give us a breakdown showing what counties voted for who. This can be used for any future election because it gives us a great breakdown of counties or even states if the data was different.
+Election Audit Summary: Since the script effectively counts votes and their percentage by each county, we can find the percentages of each county that voted for each candidate by adding another if statement under line 70. This will show the candidate each county voted for which will help for future elections since the script will give us a similarly efficient breakdown of votes.
 
-After giving you an overview of the election audit tasks, we wants to go over the steps required in detail. Showing you a technique commonly used by programmers to write steps of their code, which is called pseudocode. Pseudocode will make the audit easier to present to nontechnical colleagues and stakeholders.
+After giving an overview of the election audit tasks, we want to go over the steps in detail through a technique commonly used by programmers to write steps of their code, called pseudocode. Pseudocode will make the audit easier to present to nontechnical colleagues and stakeholders.
 
 In this project, our final Python script will need to be able to deliver the following information when the script is run:
 
@@ -175,7 +179,6 @@ A complete list of candidates who received votes
 Total number of votes each candidate received
 Percentage of votes each candidate won
 The winner of the election based on popular vote
-
 
 How many votes were cast in this congressional election?
 Total Votes Cast in this congressional election was 369,711
@@ -191,7 +194,8 @@ County with Largest Number of Votes:
 Denver county has the largest number total of 306,055
 In addition, Denver county has the total votes percentage of 82.8%
 Denver county is the Largest County Turnout
-Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+
+Here is a breakdown of the number of votes and the percentage of the total votes each candidate received.
 Candidate Percentage of Votes:
 
 Charles Casper Stockham candidate has 23.0% total percentage with a total votes of 85,213
