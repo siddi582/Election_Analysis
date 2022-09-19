@@ -182,7 +182,7 @@ The winner of the election based on popular vote
 
 How many votes were cast in this congressional election?
 Total Votes Cast in this congressional election was 369,711
-Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+Provided breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 County Votes:
 
 Jefferson county has 10.5% total percentage with a total votes of 38,855
